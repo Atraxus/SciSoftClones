@@ -1,0 +1,28 @@
+% NiCad function extractor, C
+% Jim Cordy, January 2008
+
+% Revised Oct 2020 - new source file name protocol - JRC
+% Revised Aug 2012 - disallow ouput forms in input parse - JRC
+% Revised July 2011 - ignore BOM headers in source
+% Revised 30.04.08 - unmark embedded functions - JRC
+
+% NiCad tag grammar
+include "nicad.grm"
+
+% Using Gnu C grammar
+include "fortran.grm"
+
+% Ignore BOM headers from Windows
+include "bom.grm"
+
+
+% Main function - extract and mark up function definitions from parsed input program
+function main
+    replace [program]
+		P [program]
+		%construct Functions [repeat function_definition]
+			%_ [^ P] 			% Extract all functions from program
+			%[convertFunctionDefinitions] 	% Mark up with XML
+    by 
+		P %Functions %[removeOptSemis]
+end function

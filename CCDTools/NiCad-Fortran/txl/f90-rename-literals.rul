@@ -1,0 +1,13 @@
+rule renameLiterals
+    replace $ [Ident]
+        E [Ident]
+    by
+        E [renameIdent]
+end rule
+
+function renameIdent
+    replace [Ident]
+        I [Ident]
+    by
+        'x
+end function

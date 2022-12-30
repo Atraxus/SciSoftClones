@@ -1,0 +1,226 @@
+Clone classes:
+	CCFinder Results:3535
+	CPD Results:1369
+	Duplo Results:1924
+Clone counts:
+	CCFinder: 18812
+	CPD: 86499
+	Duplo: 3844
+Lines of clones:
+	CCFinder: 158424
+	CPD: 113888
+	Duplo: 32304
+Average clone length:
+	CCFinder: 8.42
+	CPD: 1.32
+	Duplo: 8.4
+RAY.FOR:
+	Agreement CCFinder and CPD: 88.89%
+	CCFinder clone lines: 67.1%
+	CPD clone lines: 36.31%
+
+	Agreement CCFinder and Duplo: 91.79%
+	CCFinder clone lines: 67.1%
+	Duplo clone lines: 26.97%
+
+	Agreement CPD and Duplo: 82.55%
+	CPD clone lines: 36.31%
+	Duplo clone lines: 26.97%
+
+mod_raycore_Paul.f90:
+	Agreement CCFinder and CPD: 100.0%
+	CCFinder clone lines: 60.0%
+	CPD clone lines: 60.0%
+
+	Agreement CCFinder and Duplo: 93.94%
+	CCFinder clone lines: 60.0%
+	Duplo clone lines: 83.64%
+
+	Agreement CPD and Duplo: 93.94%
+	CPD clone lines: 60.0%
+	Duplo clone lines: 83.64%
+
+REFLEC_OUT.FOR:
+	Agreement CCFinder and CPD: 0.0%
+	CCFinder clone lines: 51.46%
+	CPD clone lines: 1.99%
+
+	Agreement CCFinder and Duplo: 76.47%
+	CCFinder clone lines: 51.46%
+	Duplo clone lines: 4.51%
+
+	Agreement CPD and Duplo: 26.67%
+	CPD clone lines: 1.99%
+	Duplo clone lines: 4.51%
+
+RAYLIB.FOR:
+	Agreement CCFinder and CPD: 94.29%
+	CCFinder clone lines: 59.76%
+	CPD clone lines: 31.09%
+
+	Agreement CCFinder and Duplo: 94.18%
+	CCFinder clone lines: 59.76%
+	Duplo clone lines: 13.41%
+
+	Agreement CPD and Duplo: 76.72%
+	CPD clone lines: 31.09%
+	Duplo clone lines: 13.41%
+
+OEINPUT.FOR:
+	Agreement CCFinder and CPD: 96.43%
+	CCFinder clone lines: 67.76%
+	CPD clone lines: 9.53%
+
+	Agreement CCFinder and Duplo: 52.94%
+	CCFinder clone lines: 67.76%
+	Duplo clone lines: 1.93%
+
+	Agreement CPD and Duplo: 23.53%
+	CPD clone lines: 9.53%
+	Duplo clone lines: 1.93%
+
+REFLEC_IN.FOR:
+	Agreement CCFinder and CPD: 43.21%
+	CCFinder clone lines: 53.61%
+	CPD clone lines: 14.33%
+
+	Agreement CCFinder and Duplo: 67.88%
+	CCFinder clone lines: 53.61%
+	Duplo clone lines: 5.44%
+
+	Agreement CPD and Duplo: 66.42%
+	CPD clone lines: 14.33%
+	Duplo clone lines: 5.44%
+
+rayxml.f90:
+	Agreement CCFinder and CPD: 82.5%
+	CCFinder clone lines: 70.72%
+	CPD clone lines: 17.35%
+
+	Agreement CCFinder and Duplo: 84.38%
+	CCFinder clone lines: 70.72%
+	Duplo clone lines: 6.94%
+
+	Agreement CPD and Duplo: 75.0%
+	CPD clone lines: 17.35%
+	Duplo clone lines: 6.94%
+
+OPTICS.FOR:
+	Agreement CCFinder and CPD: 95.9%
+	CCFinder clone lines: 73.01%
+	CPD clone lines: 26.58%
+
+	Agreement CCFinder and Duplo: 90.82%
+	CCFinder clone lines: 73.01%
+	Duplo clone lines: 33.93%
+
+	Agreement CPD and Duplo: 76.55%
+	CPD clone lines: 26.58%
+	Duplo clone lines: 33.93%
+
+REFLEC_CAL.FOR:
+	Agreement CCFinder and CPD: 59.88%
+	CCFinder clone lines: 40.43%
+	CPD clone lines: 9.71%
+
+	Agreement CCFinder and Duplo: 46.67%
+	CCFinder clone lines: 40.43%
+	Duplo clone lines: 1.75%
+
+	Agreement CPD and Duplo: 46.67%
+	CPD clone lines: 9.71%
+	Duplo clone lines: 1.75%
+
+SOURCE.FOR:
+	Agreement CCFinder and CPD: 76.92%
+	CCFinder clone lines: 51.2%
+	CPD clone lines: 15.6%
+
+	Agreement CCFinder and Duplo: 50.0%
+	CCFinder clone lines: 51.2%
+	Duplo clone lines: 3.2%
+
+	Agreement CPD and Duplo: 100.0%
+	CPD clone lines: 15.6%
+	Duplo clone lines: 3.2%
+
+OPTCON.FOR:
+	Agreement CCFinder and CPD: 0.0%
+	CCFinder clone lines: 42.01%
+	CPD clone lines: 0.36%
+
+	Agreement CCFinder and Duplo: 83.56%
+	CCFinder clone lines: 42.01%
+	Duplo clone lines: 6.55%
+
+	Agreement CPD and Duplo: 0.0%
+	CPD clone lines: 0.36%
+	Duplo clone lines: 6.55%
+
+CRYSUB.FOR:
+	Agreement CCFinder and CPD: 95.15%
+	CCFinder clone lines: 57.13%
+	CPD clone lines: 17.42%
+
+	Agreement CCFinder and Duplo: 86.75%
+	CCFinder clone lines: 57.13%
+	Duplo clone lines: 8.76%
+
+	Agreement CPD and Duplo: 87.95%
+	CPD clone lines: 17.42%
+	Duplo clone lines: 8.76%
+
+REFLEC.FOR:
+	Agreement CCFinder and CPD: 100%
+	CCFinder clone lines: 0%
+	CPD clone lines: 0%
+
+	Agreement CCFinder and Duplo: 100%
+	CCFinder clone lines: 0%
+	Duplo clone lines: 0%
+
+	Agreement CPD and Duplo: 100%
+	CPD clone lines: 0%
+	Duplo clone lines: 0%
+
+gnu_routines.for:
+	Agreement CCFinder and CPD: 68.97%
+	CCFinder clone lines: 44.94%
+	CPD clone lines: 10.87%
+
+	Agreement CCFinder and Duplo: 80.06%
+	CCFinder clone lines: 44.94%
+	Duplo clone lines: 12.95%
+
+	Agreement CPD and Duplo: 39.08%
+	CPD clone lines: 10.87%
+	Duplo clone lines: 12.95%
+
+mod_raycore.f90:
+	Agreement CCFinder and CPD: 100.0%
+	CCFinder clone lines: 64.37%
+	CPD clone lines: 37.93%
+
+	Agreement CCFinder and Duplo: 67.39%
+	CCFinder clone lines: 64.37%
+	Duplo clone lines: 52.87%
+
+	Agreement CPD and Duplo: 93.94%
+	CPD clone lines: 37.93%
+	Duplo clone lines: 52.87%
+
+Biggest outlier for CCFinder
+	Length: 135
+	Start line: 2517
+	File: 7
+
+Biggest outlier for CPD
+	Length: 13
+	Start line: 281
+	File: 13
+
+Biggest outlier for Duplo
+	Length: 36
+	Start line: 2525
+	File: 7
+
