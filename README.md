@@ -5,5 +5,5 @@ This includes:
 - Scripts for analysis
 - Excel files to create graphs
 
-The source code won't be shared since it is not fully open source. If you are interested in reproducing the results, please let me know under maierjan (at) informatik.hu-berlin.de. 
+The source code for RAY-UI won't be shared since it is not open source. If you are interested in reproducing the results, please let me know under maierjan (at) informatik.hu-berlin.de. 
 The tools are also not distributed with this repository, but links are provided in the CCDTools folders' README. 
